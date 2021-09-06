@@ -16,7 +16,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.21.3",
     "compact-timezone-list": "1.0.6",
     "kloudless-authenticator": "https://github.com/Kloudless/authenticator.js.git",
     "moment": "2.22.2",
